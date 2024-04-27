@@ -1,6 +1,6 @@
 # feather
 
-A Commerce Component Library built for 🍦 Vanilla.JS + Tailwind.css Components in React.js + Vite.
+An 🛒 eCommerce UI Component Library on Storybook built for 🍦 Vanilla.JS, HTML, + Tailwind.css Frontends running on React.js + Vite.
 
 ## Contribution
 
