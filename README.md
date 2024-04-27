@@ -1,4 +1,4 @@
-# feather
+# feathers
 
 An 🛒 eCommerce UI Component Library on Storybook built for 🍦 Vanilla.JS, HTML, + Tailwind.css Frontends running on React.js + Vite.
 
