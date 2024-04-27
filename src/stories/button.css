@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  @apply font-semibold rounded-full inline-block cursor-pointer;
+}
+
+.btn-primary {
+  @apply text-white bg-blue-500;
+}
+
+.btn-secondary {
+  @apply text-gray-700 bg-transparent shadow-inner;
+}
+
+.btn-small {
+  @apply text-sm px-4 py-2;
+}
+
+.btn-medium {
+  @apply text-base px-5 py-2.5;
+}
+
+.btn-large {
+  @apply text-lg px-6 py-3;
+}
